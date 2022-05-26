@@ -1,0 +1,10 @@
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\bin\Debug\claculator.Csharp.exe.config
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\bin\Debug\claculator.Csharp.exe
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\bin\Debug\claculator.Csharp.pdb
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\calculator.Csharp.csproj.AssemblyReference.cache
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\claculator.Csharp.Form1.resources
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\claculator.Csharp.Properties.Resources.resources
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\calculator.Csharp.csproj.GenerateResource.cache
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\calculator.Csharp.csproj.CoreCompileInputs.cache
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\claculator.Csharp.exe
+E:\Projects\C# Programs\claculator.Csharp\claculator.Csharp\obj\Debug\claculator.Csharp.pdb
